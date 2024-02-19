@@ -8,11 +8,11 @@
 
 ### 安装 VC 库环境
 
-从 [GitHub](https://github.com/dji-sdk/robomaster-sdk) , [Gitee](https://gitee.com/robomaster-edu/RoboMaster-SDK)，[本地地址](files/VisualCppRedist_AIO_20200707.exe) 下载 VC 库的 exe 可执行文件 `VisualCppRedist_AIO_20200707.exe`，并按步骤安装
+从 [GitHub](https://github.com/dji-sdk/robomaster-sdk)，[Gitee](https://gitee.com/robomaster-edu/RoboMaster-SDK)，[本地地址](files/VisualCppRedist_AIO_20200707.exe) 下载 VC 库的 exe 可执行文件 `VisualCppRedist_AIO_20200707.exe`，并按步骤安装
 
 ### 安装 VC build tools
 
-从 [GitHub](https://github.com/dji-sdk/robomaster-sdk) , [Gitee](https://gitee.com/robomaster-edu/RoboMaster-SDK)，[本地地址](files/visualcppbuildtools_full.exe) 下载 VC 库的 exe 可执行文件 `visualcppbuildtools_full.exe`，并按步骤安装
+从 [GitHub](https://github.com/dji-sdk/robomaster-sdk)，[Gitee](https://gitee.com/robomaster-edu/RoboMaster-SDK)，[本地地址](files/visualcppbuildtools_full.exe) 下载 VC 库的 exe 可执行文件 `visualcppbuildtools_full.exe`，并按步骤安装
 
 或者使用 [离线安装包](files/offlineBuildTool.zip)，运行 `install.bat` 并按步骤安装即可
 
@@ -26,4 +26,4 @@ pip install robomaster
 
 - 若未找到包，请检查 pip 版本 `pip -V`
 - 若安装报错，请检查是否安装 VC build tools
-- 若下载十分缓慢，请[[005-安装 Python 解释器#配置环境]]
+- 若下载十分缓慢，请 [[005-安装 Python 解释器#配置环境]]

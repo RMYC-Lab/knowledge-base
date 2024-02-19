@@ -1,11 +1,13 @@
 在 RoboMaster App 中，使用的 Python 版本为 3.6.6，本文将以 3.8.10 版本作为示例。
 
-> [!quote] 关于 Python 版本
-> 截止至 2024/2/19，Python 已经发布 3.13 prerelease，但 RoboMaster EP 最新固件内置的 Python 版本仍然是 2018/6/27 发布的 Python 3.6.6，且 RoboMaster SDK 仅支持 Python 3.6-3.8，因此我们使用 Python 3.8.10 作为示例
+> [!quote] 关于 Python 版本  
+> 截止至 2024/2/19，Python 已经发布 3.13 prerelease  
+> 但 RoboMaster EP 最新固件内置的 Python 版本仍然是 2018/6/27 发布的 Python 3.6.6  
+> 且 RoboMaster SDK 仅支持 Python 3.6-3.8，因此我们使用 Python 3.8.10 作为示例
 
 > [!quote] 关于 Python 版本共存
-> 在 Windows 系统中，可以同时安装多个 Python 版本，但需要注意环境变量的配置。默认的 `python` 所对应的 Python 版本由 Path 优先级决定。可以使用 `python -V` 查看默认的 `python` 所对应的版本
-> 当有多个版本共存时，可以使用 `py -3.8` 指定强制使用 Python 3.8
+> 在 Windows 系统中，可以同时安装多个 Python 版本，但需要注意环境变量的配置。默认的 `python` 所对应的 Python 版本由 Path 优先级决定。可以使用 `python -V` 查看默认的 `python` 所对应的版本  
+> 当有多个版本共存时，可以使用 `py -3.8` 指定强制使用 Python 3.8  
 > 可以使用 `py -3.8 -m pip` 来替换 `pip` 命令安装 PyPI 包
 
 - [[#在 Windows 中安装]]
@@ -89,7 +91,6 @@
 	```bash
 	cd Python-3.8.10
 	```
-
 ### 编译
 
 - 配置安装选项：

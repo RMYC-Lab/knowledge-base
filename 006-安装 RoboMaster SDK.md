@@ -26,4 +26,4 @@ pip install robomaster
 
 - 若未找到包，请检查 pip 版本 `pip -V`
 - 若安装报错，请检查是否安装 VC build tools
-- 若下载十分缓慢，请 [[./005-安装 Python 解释器#配置环境|005-安装 Python 解释器 > 配置环境]]
+- 若下载十分缓慢，请 [005-安装 Python 解释器 > 配置环境](./005-%E5%AE%89%E8%A3%85%20Python%20%E8%A7%A3%E9%87%8A%E5%99%A8.md#配置环境)
